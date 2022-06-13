@@ -1,4 +1,6 @@
 # Memory Cardz
+![alt text](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a3527531-f336-4c2f-9de4-90865f9fb2ec/memorycardz.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220613%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220613T023516Z&X-Amz-Expires=86400&X-Amz-Signature=dc9af6ed331625eee724fcd2dda2097429deb7108c25a274d0e4fe5e2001dfb5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22memorycardz.png%22&x-id=GetObject)
+
 
 `Tecnologia em Análise e Desenvolvimento de Sistema`
 
